@@ -1,0 +1,6 @@
+ANONOPS is not accepting friend requests.
+ANONOPS cannot recieve party invitations.
+Player anonops is not accepting PMs at this time.
+anonops is ignoring goto requests.
+Invalid /goto request.
+Room join failed, destination room is full.
